@@ -1,4 +1,4 @@
-CustomerID,Genre,Age,Annual Income ,Spending Score 
+CustomerID,Genre,Age,Income ,Spending Score 
 0001,Male,19,15,39
 0002,Male,,15,81
 0003,Female,20,15,6
