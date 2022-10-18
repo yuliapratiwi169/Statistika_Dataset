@@ -93,9 +93,9 @@ CustomerID,Genre,Age,Annual Income ,Spending Score
 0092,Male,,,41
 0093,Male,48,60,49
 0094,Female,40,60,40
-0095,Female,32,60,42
+0095,Female,,60,42
 0096,Male,24,60,52
 0097,Female,47,60,47
-0098,Female,27,60,50
+0098,Female,,60,50
 0099,Male,180,61,42
 0100,Male,20,61,49
