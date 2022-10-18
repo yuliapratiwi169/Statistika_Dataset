@@ -3,7 +3,7 @@ CustomerID,Genre,Age,Annual Income ,Spending Score
 0002,Male,,15,81
 0003,Female,20,15,6
 0004,Female,,16,21
-0005,Female,31,17,81
+0005,Female,121,17,81
 0006,Female,22,17,76
 0007,Female,35,18,6
 0008,Female,23,18,94
@@ -97,5 +97,5 @@ CustomerID,Genre,Age,Annual Income ,Spending Score
 0096,Male,24,60,52
 0097,Female,47,60,47
 0098,Female,,60,50
-0099,Male,180,61,42
+0099,Male,130,61,42
 0100,Male,20,61,49
